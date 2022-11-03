@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RestaurantApplication</string>
+    <string name="choose_from_a_wide_range_of_delicious_meals">Choose from a wide range of delicious meals</string>
+    <string name="enjoy_instant_delivery_and_payment">Enjoy instant delivery and payment</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="login"><u>login</u></string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="enter_email">Enter email</string>
+    <string name="welcome_friend_enter_your_details_so_lets_get_started_in_ordering_food">Welcome friend, enter your details so lets get started in ordering food.</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_in_with_google"><u>Sign-in with google</u></string>
+    <string name="login_to_my_account">Login to my account</string>
+    <string name="good_to_see_you_again_enter_your_details_below_to_continue_ordering">Good to see you again, enter your details below to continue ordering.</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="google">google</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quantity">Quantity</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
